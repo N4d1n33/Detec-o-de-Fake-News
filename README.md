@@ -3,7 +3,6 @@
 ### `scripts_limpeza`
 Contém os códigos responsáveis pela limpeza dos datasets originais, onde foram removidos ruídos, transformadas as *labels* em formato binário e convertidos os arquivos para CSV, facilitando a manipulação.  
 
-O dataset **Boatos BR** foi balanceado nesse processo.  
 Todos os códigos foram desenvolvidos em **Python**, no ambiente **Visual Studio**.
 
 ---
