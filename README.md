@@ -7,7 +7,7 @@ Todos os códigos foram desenvolvidos em **Python**.
 ---
 
 ### `datasets`
-Reúne os **datasets originais** utilizados —*Fake.br* *FakeRecogna* e *FakeTrueBr* — antes da limpeza e tratamento.  
+Reúne os **datasets originais** utilizados —*Fake.br* , *FakeRecogna* e *FakeTrueBr* — antes da limpeza e tratamento.  
 
 Também contém os **datasets finais pós-tratamento**, sendo:  
 - Dataset **completo final**, antes da separação em treino e teste.
