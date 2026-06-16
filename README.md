@@ -4,11 +4,11 @@ Todos os códigos foram desenvolvidos em **Python**.
 
 ---
 
-### `datasets`
+### `Datasets originais`
 Reúne os **datasets originais** utilizados —*Fake.br* , *FakeRecogna* e *FakeTrueBr* — antes da limpeza e tratamento.  
 
-Também contém os **datasets finais pós-tratamento**, sendo:  
-- Dataset **completo final**, antes da separação em treino e teste.
+### `Datasets finais`
+Contém os **datasets finais pós-tratamento**, sendo:  
 - Dataset de **teste**, com **20% das notícias**;
 - Dataset de **validação**, com **20% das notícias**;
 - Dataset de **treinamento**, com **60% das notícias**;  
