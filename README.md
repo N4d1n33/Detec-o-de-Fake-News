@@ -15,10 +15,4 @@ Também contém os **datasets finais pós-tratamento**, sendo:
 - Dataset de **validação**, com **20% das notícias**;
 - Dataset de **treinamento**, com **60% das notícias**;  
 
-  
-Desenvolvido em **Python** no ambiente **Colab**.
 
----
-
-### `resultados_previsoes`
-Armazena os **arquivos de saída e previsões** gerados pelos testes do modelo **GPT-4** e do **BERTimbau**.
